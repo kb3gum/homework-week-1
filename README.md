@@ -1,38 +1,41 @@
-# Homework Week 1 Refactoring Horiseon
+# Horiseon Project- Refactor
+
+## Project Link
+
+Click here to view project on GitHub pages.
 
 ## Description
-To do
 
-## Things we did?
+To refactor Horiseon webpage for better accessibility using semantic HTML elements
 
-What we did
+## What we did
+
+- Rectified nav bar link to SEO section
+- Changed HTML elements to semantic HTML elements
+- Used lint (prettier)to format code
+- Added alt attributed to images for better accessibility
+
+## Intial Steps
+
+- Clone GitHub project to local machine
+- Navigate into project
+- Open project in VS Code
+- Open file names index.html in default browser
+
+git clone link here
 
 ## Screenshots
+ ## Before we refactored webpage
 
-![image of website before refactor]
-(./HOMEWORK-WEEK-1/homework-week-1/assets/images/webpage-before-refactor.png "webpage before refactor")
+ image here for webpage before
 
+ ## After we refactored webpage
 
-## Before refactor
+ image here for webpage after 
 
-Navigation bar command for SEO not linked to article section in main body
-
-Footer not not required by client to be at bottom of web page
-
-## After refactor
-
-After refactor to do
+ x
 
 
-## Link to deployed application 
-click here (link) to view on GitHub pages
 
-## Getting Started
 
-- Clone the Github project onto local machine
-- Navigate into the project
-- Open project in VS
-- Open file "index.html" in default browser
-- Git clone https://github.com/kb3gum/homework-week-1
-- cd homework-week-1
-- code .
+
