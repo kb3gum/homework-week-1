@@ -6,14 +6,14 @@ Click here to view project on GitHub pages.
 
 ## Description
 
-To refactor Horiseon webpage for better accessibility using semantic HTML elements
+To refactor Horiseon webpage for improved web accessibility and optimisation using semantic HTML elements
 
 ## What we did
 
 - Rectified nav bar link to SEO section
-- Changed HTML elements to semantic HTML elements
+- Changed HTML elements to semantic HTML elements along with improved structure,styling and positioning
 - Used lint (prettier)to format code
-- Added alt attributed to images for better accessibility
+- Added alt attributed to images and updates title for better accessibility
 
 ## Intial Steps
 
@@ -25,17 +25,13 @@ To refactor Horiseon webpage for better accessibility using semantic HTML elemen
 git clone link here
 
 ## Screenshots
- ## Before we refactored webpage
 
- image here for webpage before
+## Before we refactored webpage
 
- ## After we refactored webpage
+./assets/css/images/webpage-before-refactor.png
 
- image here for webpage after 
+## After we refactored webpage
 
- x
+image here for webpage after
 
-
-
-
-
+x
